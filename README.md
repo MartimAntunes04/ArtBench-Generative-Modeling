@@ -24,4 +24,21 @@ The study evaluates and compares three primary paradigms of deep generative mode
 - **Statistical Rigor:** All quantitative results were evaluated across multiple random seeds to ensure statistical significance.
 
 ---
+## 🛠️ Tech Stack & Requirements
 
+* **Language:** Python 3.9+
+* **Frameworks:** PyTorch / torchvision, NumPy, Matplotlib, SciPy
+* **Dependencies:** Strictly defined in `requirements.txt`
+* **Hardware:** CUDA-compatible GPU (strongly recommended)
+
+---
+
+## 🚀 Getting Started
+
+Follow the instructions below to clone the repository, configure the local execution environment, and install dependencies.
+
+### 1. Clone the Repository
+
+```bash
+git clone [https://github.com/MartimAntunes04/artbench10-generative-models.git](https://github.com/MartimAntunes04/artbench10-generative-models.git)
+cd artbench10-generative-models
