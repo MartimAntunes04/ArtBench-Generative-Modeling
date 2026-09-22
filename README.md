@@ -40,5 +40,5 @@ Follow the instructions below to clone the repository, configure the local execu
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/MartimAntunes04/artbench10-generative-models.git](https://github.com/MartimAntunes04/artbench10-generative-models.git)
-cd artbench10-generative-models
+git clone [[https://github.com/MartimAntunes04/artbench10-generative-models.git](https://github.com/MartimAntunes04/ArtBench-Generative-Modeling/tree/main)]
+cd ArtBench-Generative-Modeling
